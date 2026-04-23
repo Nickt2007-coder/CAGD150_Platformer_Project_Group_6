@@ -5,14 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UnrealStuff/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Work_Nick/Nick_BP/WBP_GameOver.uasset",
-				"C:/UnrealStuff/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Work_Nick/Nick_lvls/GameOverLevel.umap",
-				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/testing/UI_Manager.uasset",
 				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Work_Nick/Nick_BP/WBP_HUD.uasset",
 				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/johnnytestlvl.umap",
 				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Christian-work/BP_GameInstance.uasset",
 				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/Blueprints/BP_GameMode.uasset",
-				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/Blueprints/BP_SideScrollerCharacter.uasset"
+				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/Blueprints/BP_SideScrollerCharacter.uasset",
+				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Work_Nick/Nick_BP/NP_MainMenu.uasset",
+				"C:/UnrealStuff/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Work_Nick/Nick_BP/WBP_GameOver.uasset",
+				"C:/UnrealStuff/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Work_Nick/Nick_lvls/GameOverLevel.umap",
+				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/testing/UI_Manager.uasset"
 			]
 		}
 	]
