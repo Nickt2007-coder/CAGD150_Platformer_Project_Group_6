@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/testing/UI_Manager.uasset",
+				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Work_Nick/Nick_BP/WBP_HUD.uasset",
+				"C:/Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/johnnytestlvl.umap"
+			]
+		}
+	]
+}
