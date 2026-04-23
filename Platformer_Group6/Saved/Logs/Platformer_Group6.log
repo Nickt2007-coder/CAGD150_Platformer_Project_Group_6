@@ -1810,3 +1810,660 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.23-20.45.52:785][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 676.432373
 [2026.04.23-20.45.53:780][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.23-20.45.53:780][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 677.087952, Update Interval: 355.235443
+[2026.04.23-20.46.24:835][726]SourceControl: Revision control is disabled
+[2026.04.23-20.46.24:835][726]LogSlate: Window 'Revision Control Login' being destroyed
+[2026.04.23-20.46.26:611][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.04.23-20.46.30:162][805]LogSlate: Window 'Save Content' being destroyed
+[2026.04.23-20.46.30:177][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.46.30:223][805]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Work_Nick/Nick_BP/WBP_HUD] ([2] browsable assets)...
+[2026.04.23-20.46.30:229][805]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Work_Nick/Nick_BP/WBP_HUD.WBP_HUD]
+[2026.04.23-20.46.30:229][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Work_Nick/Nick_BP/WBP_HUD]
+[2026.04.23-20.46.30:282][805]LogSavePackage: Moving output files for package: /Game/Work_Nick/Nick_BP/WBP_HUD
+[2026.04.23-20.46.30:284][805]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/WBP_HUDDF49BCA740CF51A19D577EAFA25CD708.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Work_Nick/Nick_BP/WBP_HUD.uasset'
+[2026.04.23-20.46.30:315][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.505 ms (total: 776.918 ms)
+[2026.04.23-20.46.30:397][805]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.46.30:397][805]LogContentValidation: Enabled validators:
+[2026.04.23-20.46.30:397][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.46.30:397][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.46.30:397][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.46.30:397][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.46.30:397][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.46.30:397][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.46.30:399][805]AssetCheck: /Game/Work_Nick/Nick_BP/WBP_HUD Validating asset
+[2026.04.23-20.48.58:639][ 14]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-20.48.58:647][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-20.48.58:647][ 14]LogPlayLevel: Creating play world package: /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-20.48.58:650][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002988s)
+[2026.04.23-20.48.58:650][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Johnny-Work/johnnytestlvl.johnnytestlvl to /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl (0.003034s)
+[2026.04.23-20.48.58:688][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.04.23-20.48.58:691][ 14]LogChaosDD: Creating Chaos Debug Draw Scene for world johnnytestlvl
+[2026.04.23-20.48.58:692][ 14]LogPlayLevel: PIE: World Init took: (0.002208s)
+[2026.04.23-20.48.58:693][ 14]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.04.23-20.48.58:693][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-20.48.58:693][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-20.48.58:693][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-20.48.58:693][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-20.48.58:693][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.23-20.48.58:693][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-20.48.58:693][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.23-20.48.58:693][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-20.48.58:693][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-20.48.58:693][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-20.48.58:693][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-20.48.58:696][ 14]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.23-20.48.58:723][ 14]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.04.23-20.48.58:723][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-20.48.58:723][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-20.48.58:723][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-20.48.58:723][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.04.23-20.48.58:723][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.04.23-20.48.58:727][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.04.23-20.48.58:727][ 14]LogInit: FAudioDevice initialized with ID 10.
+[2026.04.23-20.48.58:727][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.04.23-20.48.58:727][ 14]LogAudio: Display: Audio Device (ID: 10) registered with world 'johnnytestlvl'.
+[2026.04.23-20.48.58:727][ 14]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.23-20.48.58:743][ 14]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.23-20.48.58:746][ 14]LogWorld: Bringing World /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl up for play (max tick rate 0) at 2026.04.23-13.48.58
+[2026.04.23-20.48.58:747][ 14]LogWorld: Bringing up level for play took: 0.002804
+[2026.04.23-20.48.58:751][ 14]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.04.23-20.48.58:761][ 14]PIE: Server logged in
+[2026.04.23-20.48.58:765][ 14]PIE: Play in editor total start time 0.12 seconds.
+[2026.04.23-20.48.58:847][ 15]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.23-20.49.01:032][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-20.49.01:032][155]LogWorld: BeginTearingDown for /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-20.49.01:032][155]LogWorld: UWorld::CleanupWorld for johnnytestlvl, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-20.49.01:032][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-20.49.01:034][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-20.49.01:041][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-20.49.01:094][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-20.49.01:094][155]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.23-20.49.01:094][155]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.04.23-20.49.01:097][155]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.04.23-20.49.01:104][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.04.23-20.49.01:199][156]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.04.23-20.49.04:100][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-20.49.04:107][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-20.49.04:107][337]LogPlayLevel: Creating play world package: /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-20.49.04:111][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002811s)
+[2026.04.23-20.49.04:111][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Johnny-Work/johnnytestlvl.johnnytestlvl to /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl (0.002856s)
+[2026.04.23-20.49.04:148][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.04.23-20.49.04:150][337]LogChaosDD: Creating Chaos Debug Draw Scene for world johnnytestlvl
+[2026.04.23-20.49.04:152][337]LogPlayLevel: PIE: World Init took: (0.002035s)
+[2026.04.23-20.49.04:153][337]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.04.23-20.49.04:153][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-20.49.04:153][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-20.49.04:153][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-20.49.04:153][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-20.49.04:153][337]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.23-20.49.04:153][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-20.49.04:153][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.23-20.49.04:153][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-20.49.04:153][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-20.49.04:153][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-20.49.04:153][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-20.49.04:156][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.23-20.49.04:179][337]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.04.23-20.49.04:179][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-20.49.04:179][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-20.49.04:179][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-20.49.04:180][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.04.23-20.49.04:180][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.04.23-20.49.04:183][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.04.23-20.49.04:183][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.04.23-20.49.04:183][337]LogInit: FAudioDevice initialized with ID 11.
+[2026.04.23-20.49.04:183][337]LogAudio: Display: Audio Device (ID: 11) registered with world 'johnnytestlvl'.
+[2026.04.23-20.49.04:183][337]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.23-20.49.04:189][337]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.23-20.49.04:189][337]LogWorld: Bringing World /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl up for play (max tick rate 0) at 2026.04.23-13.49.04
+[2026.04.23-20.49.04:191][337]LogWorld: Bringing up level for play took: 0.001571
+[2026.04.23-20.49.04:195][337]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.04.23-20.49.04:203][337]PIE: Server logged in
+[2026.04.23-20.49.04:206][337]PIE: Play in editor total start time 0.098 seconds.
+[2026.04.23-20.49.04:295][338]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.23-20.49.22:133][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-20.49.22:133][361]LogWorld: BeginTearingDown for /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-20.49.22:133][361]LogWorld: UWorld::CleanupWorld for johnnytestlvl, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-20.49.22:134][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-20.49.22:138][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-20.49.22:151][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-20.49.22:205][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-20.49.22:205][361]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.23-20.49.22:205][361]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.04.23-20.49.22:209][361]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.04.23-20.49.22:218][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.23-20.49.22:324][362]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: ================================================
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Total job queries 422, among them cache hits 33 (7.82%), DDC hits 310 (73.46%), Duplicates 70 (16.59%)
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Tracking 319 distinct input hashes that result in 230 distinct outputs (72.10%)
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: RAM used: 3.18 MiB of 819.20 MiB budget. Usage: 0.39%
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Shaders Compiled: 9
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Average time worker was idle: 631.44 s
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 3.14 s
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Job life time (pending + execution): average 2.09 s, max 3.20
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Shader code size: total 80.945 KiB, numShaders 9, average 8.993 KiB, min 4.289 KiB, max 14.137 KiB
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.27 s
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Average processing rate: 1.44 jobs/sec
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Total thread time: 8.498 s
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Total thread preprocess time: 8.036 s
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Percentage time preprocessing: 94.56%
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Effective parallelization: 1.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.169523
+[2026.04.23-20.49.57:221][491]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.28 sec, max 1.49 sec, min 1.16 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.95 sec, max 1.14 sec, min 0.63 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.54 sec, max 0.71 sec, min 0.36 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 45.35% of total time (compiled    3 times, average 1.28 sec, max 1.49 sec, min 1.16 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.58% of total time (compiled    3 times, average 0.95 sec, max 1.14 sec, min 0.63 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.68% of total time (compiled    2 times, average 0.54 sec, max 0.71 sec, min 0.36 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.39% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: === Material stats ===
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: Materials Translated:    140
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: Material Translation Only: 0.10 s (45%)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: Material Cache Hits: 18 (13%)
+[2026.04.23-20.49.57:222][491]LogShaderCompilers: Display: ================================================
+[2026.04.23-20.51.55:260][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1038.903687
+[2026.04.23-20.51.55:416][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.23-20.51.55:416][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1039.036865, Update Interval: 346.555969
+[2026.04.23-20.53.14:230][332]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Christian-work\BP_GameInstance.uasset: [Compiler] This blueprint (self) is not a BP_GameMode_C, therefore ' Target ' must have a connection.
+[2026.04.23-20.53.14:277][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.23-20.53.14:300][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.53.14:350][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Christian-work/BP_GameInstance] ([2] browsable assets)...
+[2026.04.23-20.53.14:351][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Christian-work/BP_GameInstance]
+[2026.04.23-20.53.14:396][332]LogSavePackage: Moving output files for package: /Game/Christian-work/BP_GameInstance
+[2026.04.23-20.53.14:398][332]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_GameInstance95D99DFF428F6D97CF1385A5DBF534B4.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Christian-work/BP_GameInstance.uasset'
+[2026.04.23-20.53.14:429][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.159 ms (total: 906.077 ms)
+[2026.04.23-20.53.14:485][332]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.53.14:485][332]LogContentValidation: Enabled validators:
+[2026.04.23-20.53.14:485][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.53.14:485][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.53.14:485][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.53.14:485][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.53.14:485][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.53.14:485][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.53.14:485][332]AssetCheck: /Game/Christian-work/BP_GameInstance Validating asset
+[2026.04.23-20.53.14:660][332]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.23-20.53.51:316][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Johnny-Work/Blueprints/BP_GameMode.BP_GameMode
+[2026.04.23-20.53.51:317][665]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.23-20.54.15:283][825]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Christian-work\BP_GameInstance.uasset: [Compiler] This blueprint (self) is not a BP_GameMode_C, therefore ' Target ' must have a connection.
+[2026.04.23-20.54.15:346][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.23-20.54.15:368][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.54.15:430][825]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Christian-work/BP_GameInstance] ([2] browsable assets)...
+[2026.04.23-20.54.15:431][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/Christian-work/BP_GameInstance]
+[2026.04.23-20.54.15:494][825]LogSavePackage: Moving output files for package: /Game/Christian-work/BP_GameInstance
+[2026.04.23-20.54.15:497][825]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_GameInstance91EEF879422E499FB29519988BA7BF3D.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Christian-work/BP_GameInstance.uasset'
+[2026.04.23-20.54.15:527][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.790 ms (total: 1.06 sec)
+[2026.04.23-20.54.15:603][825]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.54.15:604][825]LogContentValidation: Enabled validators:
+[2026.04.23-20.54.15:604][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.54.15:604][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.54.15:604][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.54.15:604][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.54.15:604][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.54.15:604][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.54.15:604][825]AssetCheck: /Game/Christian-work/BP_GameInstance Validating asset
+[2026.04.23-20.54.51:530][522]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Johnny-Work\Blueprints\BP_SideScrollerCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Respawn . Please refresh node or break links to remove pin.
+[2026.04.23-20.54.51:530][522]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Johnny-Work\Blueprints\BP_SideScrollerCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Respawn . Please refresh node or break links to remove pin.
+[2026.04.23-20.54.51:530][522]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Johnny-Work\Blueprints\BP_SideScrollerCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Respawn . Please refresh node or break links to remove pin.
+[2026.04.23-20.54.51:530][522]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Johnny-Work\Blueprints\BP_SideScrollerCharacter.uasset: [Compiler] Could not find a function named "Respawn" in 'BP_GameMode_C'.
+Make sure 'BP_GameMode_C' has been compiled for  Respawn
+[2026.04.23-20.54.51:613][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.04.23-20.54.51:636][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.54.51:695][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Johnny-Work/Blueprints/BP_GameMode] ([2] browsable assets)...
+[2026.04.23-20.54.51:695][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Johnny-Work/Blueprints/BP_GameMode]
+[2026.04.23-20.54.51:730][522]LogSavePackage: Moving output files for package: /Game/Johnny-Work/Blueprints/BP_GameMode
+[2026.04.23-20.54.51:731][522]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_GameModeC1FD00CF41BB71586B936289096A1048.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/Blueprints/BP_GameMode.uasset'
+[2026.04.23-20.54.51:761][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.221 ms (total: 1.18 sec)
+[2026.04.23-20.54.51:831][522]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.54.51:831][522]LogContentValidation: Enabled validators:
+[2026.04.23-20.54.51:831][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.54.51:831][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.54.51:831][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.54.51:831][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.54.51:831][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.54.51:831][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.54.51:832][522]AssetCheck: /Game/Johnny-Work/Blueprints/BP_GameMode Validating asset
+[2026.04.23-20.54.51:958][522]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.23-20.54.53:394][601]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Christian-work\BP_GameInstance.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Respawn . Please refresh node or break links to remove pin.
+[2026.04.23-20.54.53:394][601]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Christian-work\BP_GameInstance.uasset: [Compiler] Could not find a function named "Respawn" in 'BP_GameMode_C'.
+Make sure 'BP_GameMode_C' has been compiled for  Respawn
+[2026.04.23-20.54.53:395][601]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Christian-work\BP_GameInstance.uasset: [Compiler] This blueprint (self) is not a BP_GameMode_C, therefore ' Target ' must have a connection.
+[2026.04.23-20.54.53:440][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.04.23-20.55.12:317][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.23-20.55.12:339][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.55.12:394][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Christian-work/BP_GameInstance] ([2] browsable assets)...
+[2026.04.23-20.55.12:394][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Christian-work/BP_GameInstance]
+[2026.04.23-20.55.12:451][355]LogSavePackage: Moving output files for package: /Game/Christian-work/BP_GameInstance
+[2026.04.23-20.55.12:453][355]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_GameInstance3810342E4EB1AA4421B8799F4C1A663C.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Christian-work/BP_GameInstance.uasset'
+[2026.04.23-20.55.12:480][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.607 ms (total: 1.33 sec)
+[2026.04.23-20.55.12:547][355]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.55.12:547][355]LogContentValidation: Enabled validators:
+[2026.04.23-20.55.12:547][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.55.12:547][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.55.12:547][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.55.12:547][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.55.12:547][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.55.12:547][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.55.12:547][355]AssetCheck: /Game/Christian-work/BP_GameInstance Validating asset
+[2026.04.23-20.55.26:589][ 73]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-20.55.26:598][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-20.55.26:598][ 73]BlueprintLog: Warning: Blueprint failed to compile:  BP_SideScrollerCharacter
+[2026.04.23-20.55.29:653][ 73]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.04.23-20.55.31:168][175]LogSlate: Window 'Message Log' being destroyed
+[2026.04.23-20.55.31:180][175]LogSlate: Window 'Message Log' being destroyed
+[2026.04.23-20.55.33:259][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter.BP_SideScrollerCharacter
+[2026.04.23-20.55.33:259][317]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.23-20.55.34:352][320]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.04.23-20.55.59:376][275]LogBlueprint: Warning: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Johnny-Work\Blueprints\BP_SideScrollerCharacter.uasset: [Compiler] 'BP Game Instance' does not inherit from 'Game Mode Base' ( Cast To BP_GameInstance  would always fail).
+[2026.04.23-20.55.59:379][275]LogBlueprint: Error: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Johnny-Work\Blueprints\BP_SideScrollerCharacter.uasset: [Compiler] This blueprint (self) is not a BP_GameInstance_C, therefore ' Target ' must have a connection.
+[2026.04.23-20.55.59:503][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.04.23-20.55.59:554][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.55.59:613][275]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter] ([2] browsable assets)...
+[2026.04.23-20.55.59:677][275]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter.BP_SideScrollerCharacter]
+[2026.04.23-20.55.59:677][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter]
+[2026.04.23-20.55.59:763][275]LogSavePackage: Moving output files for package: /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter
+[2026.04.23-20.55.59:766][275]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_SideScrollerCharacterBA0C1B0B40DDBAF8BC3A9FBC3AFA03FB.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/Blueprints/BP_SideScrollerCharacter.uasset'
+[2026.04.23-20.55.59:799][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 244.394 ms (total: 1.57 sec)
+[2026.04.23-20.55.59:872][275]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.55.59:872][275]LogContentValidation: Enabled validators:
+[2026.04.23-20.55.59:872][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.55.59:873][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.55.59:873][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.55.59:873][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.55.59:873][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.55.59:873][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.55.59:873][275]AssetCheck: /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter Validating asset
+[2026.04.23-20.56.00:009][275]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.23-20.56.02:522][377]LogBlueprint: Warning: [AssetLog] C:\Users\jmnegrete\Documents\clone\CAGD150_Platformer_Project_Group_6\Platformer_Group6\Content\Johnny-Work\Blueprints\BP_SideScrollerCharacter.uasset: [Compiler] 'BP Game Instance' does not inherit from 'Game Mode Base' ( Cast To BP_GameInstance  would always fail).
+[2026.04.23-20.56.02:611][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.23-20.56.02:652][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.56.02:706][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter] ([2] browsable assets)...
+[2026.04.23-20.56.02:772][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter.BP_SideScrollerCharacter]
+[2026.04.23-20.56.02:773][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter]
+[2026.04.23-20.56.02:848][377]LogSavePackage: Moving output files for package: /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter
+[2026.04.23-20.56.02:850][377]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_SideScrollerCharacterB5D4C9B043FEEEBF92CD94B1E77376B6.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/Blueprints/BP_SideScrollerCharacter.uasset'
+[2026.04.23-20.56.02:877][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.119 ms (total: 1.80 sec)
+[2026.04.23-20.56.02:942][377]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.56.02:942][377]LogContentValidation: Enabled validators:
+[2026.04.23-20.56.02:942][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.56.02:942][377]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.56.02:942][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.56.02:942][377]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.56.02:942][377]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.56.02:942][377]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.56.02:943][377]AssetCheck: /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter Validating asset
+[2026.04.23-20.56.19:042][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.23-20.56.19:084][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.56.19:142][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter] ([2] browsable assets)...
+[2026.04.23-20.56.19:229][ 21]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter.BP_SideScrollerCharacter]
+[2026.04.23-20.56.19:229][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter]
+[2026.04.23-20.56.19:300][ 21]LogSavePackage: Moving output files for package: /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter
+[2026.04.23-20.56.19:302][ 21]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_SideScrollerCharacter044A8A944FC18A20277646AEAD629E61.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/Blueprints/BP_SideScrollerCharacter.uasset'
+[2026.04.23-20.56.19:331][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.710 ms (total: 2.04 sec)
+[2026.04.23-20.56.19:409][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.56.19:409][ 21]LogContentValidation: Enabled validators:
+[2026.04.23-20.56.19:409][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.56.19:409][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.56.19:409][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.56.19:409][ 21]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.56.19:409][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.56.19:409][ 21]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.56.19:410][ 21]AssetCheck: /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter Validating asset
+[2026.04.23-20.57.09:205][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.04.23-20.57.09:257][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.57.09:311][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter] ([2] browsable assets)...
+[2026.04.23-20.57.09:387][348]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter.BP_SideScrollerCharacter]
+[2026.04.23-20.57.09:387][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter]
+[2026.04.23-20.57.09:423][348]LogSavePackage: Moving output files for package: /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter
+[2026.04.23-20.57.09:426][348]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_SideScrollerCharacter8F587A8B43B3F8EBDC865E84F7FF3BFF.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Johnny-Work/Blueprints/BP_SideScrollerCharacter.uasset'
+[2026.04.23-20.57.09:453][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.459 ms (total: 2.24 sec)
+[2026.04.23-20.57.09:512][348]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.57.09:512][348]LogContentValidation: Enabled validators:
+[2026.04.23-20.57.09:512][348]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.57.09:512][348]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.57.09:512][348]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.57.09:512][348]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.57.09:512][348]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.57.09:512][348]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.57.09:513][348]AssetCheck: /Game/Johnny-Work/Blueprints/BP_SideScrollerCharacter Validating asset
+[2026.04.23-20.57.13:079][533]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-20.57.13:087][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-20.57.13:113][533]LogPlayLevel: Creating play world package: /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-20.57.13:116][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003436s)
+[2026.04.23-20.57.13:116][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Johnny-Work/johnnytestlvl.johnnytestlvl to /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl (0.003534s)
+[2026.04.23-20.57.13:161][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.23-20.57.13:165][533]LogChaosDD: Creating Chaos Debug Draw Scene for world johnnytestlvl
+[2026.04.23-20.57.13:167][533]LogPlayLevel: PIE: World Init took: (0.002063s)
+[2026.04.23-20.57.13:168][533]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.04.23-20.57.13:168][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-20.57.13:168][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-20.57.13:168][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-20.57.13:168][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-20.57.13:168][533]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.23-20.57.13:168][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-20.57.13:168][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.23-20.57.13:168][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-20.57.13:168][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-20.57.13:168][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-20.57.13:168][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-20.57.13:172][533]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.23-20.57.13:200][533]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.04.23-20.57.13:201][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-20.57.13:201][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-20.57.13:201][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-20.57.13:201][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.04.23-20.57.13:201][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.04.23-20.57.13:206][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.04.23-20.57.13:206][533]LogInit: FAudioDevice initialized with ID 12.
+[2026.04.23-20.57.13:206][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.04.23-20.57.13:206][533]LogAudio: Display: Audio Device (ID: 12) registered with world 'johnnytestlvl'.
+[2026.04.23-20.57.13:206][533]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.23-20.57.13:212][533]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.23-20.57.13:213][533]LogWorld: Bringing World /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl up for play (max tick rate 0) at 2026.04.23-13.57.13
+[2026.04.23-20.57.13:214][533]LogWorld: Bringing up level for play took: 0.001762
+[2026.04.23-20.57.13:217][533]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.04.23-20.57.13:226][533]PIE: Server logged in
+[2026.04.23-20.57.13:229][533]PIE: Play in editor total start time 0.142 seconds.
+[2026.04.23-20.57.13:325][534]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.23-20.57.25:963][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-20.57.25:963][902]LogWorld: BeginTearingDown for /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-20.57.25:963][902]LogWorld: UWorld::CleanupWorld for johnnytestlvl, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-20.57.25:964][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-20.57.25:966][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-20.57.25:976][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-20.57.26:027][902]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-20.57.26:028][902]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.23-20.57.26:028][902]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.04.23-20.57.26:031][902]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.04.23-20.57.26:035][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-20.57.26:039][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.04.23-20.57.26:156][903]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.04.23-20.57.52:199][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1395.843750
+[2026.04.23-20.57.53:203][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.23-20.57.53:203][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1396.511353, Update Interval: 315.709106
+[2026.04.23-20.59.33:145][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.04.23-20.59.33:189][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-20.59.33:252][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Christian-work/BP_GameInstance] ([2] browsable assets)...
+[2026.04.23-20.59.33:252][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/Christian-work/BP_GameInstance]
+[2026.04.23-20.59.33:311][563]LogSavePackage: Moving output files for package: /Game/Christian-work/BP_GameInstance
+[2026.04.23-20.59.33:313][563]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_GameInstance6B47A1794DF704C85C402B9E3BF88719.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Christian-work/BP_GameInstance.uasset'
+[2026.04.23-20.59.33:342][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.525 ms (total: 2.39 sec)
+[2026.04.23-20.59.33:413][563]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-20.59.33:413][563]LogContentValidation: Enabled validators:
+[2026.04.23-20.59.33:413][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-20.59.33:413][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-20.59.33:413][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-20.59.33:413][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-20.59.33:413][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-20.59.33:413][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-20.59.33:414][563]AssetCheck: /Game/Christian-work/BP_GameInstance Validating asset
+[2026.04.23-21.01.14:338][502]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-21.01.14:346][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-21.01.14:374][502]LogPlayLevel: Creating play world package: /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-21.01.14:377][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003154s)
+[2026.04.23-21.01.14:377][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Johnny-Work/johnnytestlvl.johnnytestlvl to /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl (0.003215s)
+[2026.04.23-21.01.14:420][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.04.23-21.01.14:425][502]LogChaosDD: Creating Chaos Debug Draw Scene for world johnnytestlvl
+[2026.04.23-21.01.14:427][502]LogPlayLevel: PIE: World Init took: (0.001998s)
+[2026.04.23-21.01.14:428][502]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.04.23-21.01.14:428][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-21.01.14:428][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-21.01.14:428][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-21.01.14:428][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-21.01.14:428][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.23-21.01.14:428][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-21.01.14:428][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.23-21.01.14:428][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-21.01.14:428][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-21.01.14:428][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-21.01.14:428][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-21.01.14:431][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.23-21.01.14:457][502]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.04.23-21.01.14:457][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-21.01.14:457][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-21.01.14:457][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-21.01.14:458][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.04.23-21.01.14:458][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.04.23-21.01.14:461][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.04.23-21.01.14:461][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.04.23-21.01.14:462][502]LogInit: FAudioDevice initialized with ID 13.
+[2026.04.23-21.01.14:462][502]LogAudio: Display: Audio Device (ID: 13) registered with world 'johnnytestlvl'.
+[2026.04.23-21.01.14:462][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.04.23-21.01.14:467][502]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.23-21.01.14:468][502]LogWorld: Bringing World /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl up for play (max tick rate 0) at 2026.04.23-14.01.14
+[2026.04.23-21.01.14:468][502]LogWorld: Bringing up level for play took: 0.001358
+[2026.04.23-21.01.14:472][502]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.04.23-21.01.14:478][502]PIE: Server logged in
+[2026.04.23-21.01.14:481][502]PIE: Play in editor total start time 0.136 seconds.
+[2026.04.23-21.01.14:559][503]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.23-21.01.28:665][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-21.01.28:665][ 14]LogWorld: BeginTearingDown for /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-21.01.28:666][ 14]LogWorld: UWorld::CleanupWorld for johnnytestlvl, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-21.01.28:667][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-21.01.28:671][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-21.01.28:683][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-21.01.28:749][ 14]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-21.01.28:749][ 14]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.04.23-21.01.28:749][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.04.23-21.01.28:752][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.04.23-21.01.28:757][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-21.01.28:760][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.23-21.01.28:863][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.04.23-21.02.58:779][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.23-21.02.58:826][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-21.02.58:889][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Christian-work/BP_GameInstance] ([2] browsable assets)...
+[2026.04.23-21.02.58:889][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Christian-work/BP_GameInstance]
+[2026.04.23-21.02.58:945][296]LogSavePackage: Moving output files for package: /Game/Christian-work/BP_GameInstance
+[2026.04.23-21.02.58:947][296]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_GameInstanceB7EF9A614C6CC3769A948D8B318AAC9E.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Christian-work/BP_GameInstance.uasset'
+[2026.04.23-21.02.58:977][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.056 ms (total: 2.54 sec)
+[2026.04.23-21.02.59:038][296]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-21.02.59:038][296]LogContentValidation: Enabled validators:
+[2026.04.23-21.02.59:038][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-21.02.59:038][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-21.02.59:038][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-21.02.59:038][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-21.02.59:038][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-21.02.59:038][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-21.02.59:039][296]AssetCheck: /Game/Christian-work/BP_GameInstance Validating asset
+[2026.04.23-21.03.04:771][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-21.03.04:779][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-21.03.04:780][604]LogPlayLevel: Creating play world package: /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-21.03.04:782][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002799s)
+[2026.04.23-21.03.04:782][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Johnny-Work/johnnytestlvl.johnnytestlvl to /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl (0.002851s)
+[2026.04.23-21.03.04:824][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.04.23-21.03.04:828][604]LogChaosDD: Creating Chaos Debug Draw Scene for world johnnytestlvl
+[2026.04.23-21.03.04:830][604]LogPlayLevel: PIE: World Init took: (0.002062s)
+[2026.04.23-21.03.04:831][604]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.04.23-21.03.04:831][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-21.03.04:831][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-21.03.04:831][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-21.03.04:831][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-21.03.04:831][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.23-21.03.04:831][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-21.03.04:831][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.23-21.03.04:831][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-21.03.04:831][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-21.03.04:831][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-21.03.04:831][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-21.03.04:834][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.23-21.03.04:858][604]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.04.23-21.03.04:858][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-21.03.04:858][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-21.03.04:858][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-21.03.04:859][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.04.23-21.03.04:859][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.04.23-21.03.04:861][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.04.23-21.03.04:861][604]LogInit: FAudioDevice initialized with ID 14.
+[2026.04.23-21.03.04:861][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.04.23-21.03.04:861][604]LogAudio: Display: Audio Device (ID: 14) registered with world 'johnnytestlvl'.
+[2026.04.23-21.03.04:861][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.23-21.03.04:868][604]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.23-21.03.04:869][604]LogWorld: Bringing World /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl up for play (max tick rate 0) at 2026.04.23-14.03.04
+[2026.04.23-21.03.04:869][604]LogWorld: Bringing up level for play took: 0.001374
+[2026.04.23-21.03.04:872][604]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.04.23-21.03.04:877][604]PIE: Server logged in
+[2026.04.23-21.03.04:880][604]PIE: Play in editor total start time 0.101 seconds.
+[2026.04.23-21.03.04:974][605]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.23-21.03.07:296][825]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Work_Nick/Nick_lvls/Nick_testlvl"
+[2026.04.23-21.03.07:296][825]LogNet: Browse: /Game/Work_Nick/Nick_lvls/Nick_testlvl
+[2026.04.23-21.03.07:298][825]LogLoad: LoadMap: /Game/Work_Nick/Nick_lvls/Nick_testlvl
+[2026.04.23-21.03.07:298][825]LogWorld: BeginTearingDown for /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-21.03.07:300][825]LogWorld: UWorld::CleanupWorld for johnnytestlvl, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-21.03.07:301][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-21.03.07:343][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-21.03.07:346][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.04.23-21.03.07:353][825]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-21.03.07:373][825]LogAudio: Display: Audio Device (ID: 14) registered with world 'Nick_testlvl'.
+[2026.04.23-21.03.07:373][825]LogChaosDD: Creating Chaos Debug Draw Scene for world Nick_testlvl
+[2026.04.23-21.03.07:377][825]LogPlayLevel: PIE: World Init took: (0.003956s)
+[2026.04.23-21.03.07:377][825]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.23-21.03.07:380][825]LogWorld: Bringing World /Game/Work_Nick/Nick_lvls/UEDPIE_0_Nick_testlvl.Nick_testlvl up for play (max tick rate 0) at 2026.04.23-14.03.07
+[2026.04.23-21.03.07:381][825]LogWorld: Bringing up level for play took: 0.002702
+[2026.04.23-21.03.07:390][825]LogLoad: Took 0.091567 seconds to LoadMap(/Game/Work_Nick/Nick_lvls/Nick_testlvl)
+[2026.04.23-21.03.07:391][825]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Work_Nick/Nick_lvls/Nick_testlvl
+[2026.04.23-21.03.07:403][825]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.23-21.03.12:285][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-21.03.12:285][315]LogWorld: BeginTearingDown for /Game/Work_Nick/Nick_lvls/UEDPIE_0_Nick_testlvl
+[2026.04.23-21.03.12:285][315]LogWorld: UWorld::CleanupWorld for Nick_testlvl, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-21.03.12:286][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-21.03.12:289][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-21.03.12:304][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-21.03.12:364][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-21.03.12:365][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.23-21.03.12:365][315]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.04.23-21.03.12:367][315]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.04.23-21.03.12:376][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.23-21.03.12:601][316]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.04.23-21.03.37:298][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1740.938232
+[2026.04.23-21.03.37:461][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.23-21.03.37:461][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1741.084717, Update Interval: 330.685760
+[2026.04.23-21.04.03:712][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.23-21.04.03:746][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-21.04.03:819][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Christian-work/BP_GameInstance] ([2] browsable assets)...
+[2026.04.23-21.04.03:819][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Christian-work/BP_GameInstance]
+[2026.04.23-21.04.03:880][815]LogSavePackage: Moving output files for package: /Game/Christian-work/BP_GameInstance
+[2026.04.23-21.04.03:883][815]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_GameInstance86B88EA1491E891BEA19F999C5D5DA03.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Christian-work/BP_GameInstance.uasset'
+[2026.04.23-21.04.03:913][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.455 ms (total: 2.71 sec)
+[2026.04.23-21.04.03:974][815]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-21.04.03:974][815]LogContentValidation: Enabled validators:
+[2026.04.23-21.04.03:974][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-21.04.03:974][815]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-21.04.03:974][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-21.04.03:974][815]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-21.04.03:974][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-21.04.03:974][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-21.04.03:974][815]AssetCheck: /Game/Christian-work/BP_GameInstance Validating asset
+[2026.04.23-21.04.07:029][992]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-21.04.07:037][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-21.04.07:064][992]LogPlayLevel: Creating play world package: /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-21.04.07:067][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003008s)
+[2026.04.23-21.04.07:067][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Johnny-Work/johnnytestlvl.johnnytestlvl to /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl (0.003063s)
+[2026.04.23-21.04.07:117][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.23-21.04.07:120][992]LogChaosDD: Creating Chaos Debug Draw Scene for world johnnytestlvl
+[2026.04.23-21.04.07:122][992]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2026.04.23-21.04.07:124][992]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.04.23-21.04.07:124][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-21.04.07:124][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-21.04.07:124][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-21.04.07:124][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-21.04.07:124][992]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.23-21.04.07:124][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-21.04.07:124][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.23-21.04.07:124][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-21.04.07:124][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-21.04.07:124][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-21.04.07:124][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-21.04.07:126][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.23-21.04.07:149][992]LogAudioMixer: Display: Using Audio Hardware Device ASUS VG34V (NVIDIA High Definition Audio)
+[2026.04.23-21.04.07:149][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-21.04.07:149][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-21.04.07:149][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-21.04.07:150][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.04.23-21.04.07:150][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.04.23-21.04.07:154][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.04.23-21.04.07:154][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.04.23-21.04.07:154][992]LogInit: FAudioDevice initialized with ID 15.
+[2026.04.23-21.04.07:154][992]LogAudio: Display: Audio Device (ID: 15) registered with world 'johnnytestlvl'.
+[2026.04.23-21.04.07:154][992]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.23-21.04.07:159][992]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.23-21.04.07:161][992]LogWorld: Bringing World /Game/Johnny-Work/UEDPIE_0_johnnytestlvl.johnnytestlvl up for play (max tick rate 0) at 2026.04.23-14.04.07
+[2026.04.23-21.04.07:161][992]LogWorld: Bringing up level for play took: 0.001541
+[2026.04.23-21.04.07:165][992]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.04.23-21.04.07:172][992]PIE: Server logged in
+[2026.04.23-21.04.07:174][992]PIE: Play in editor total start time 0.138 seconds.
+[2026.04.23-21.04.07:273][993]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.23-21.04.16:476][962]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Work_Nick/Nick_lvls/Nick_testlvl"
+[2026.04.23-21.04.16:476][962]LogNet: Browse: /Game/Work_Nick/Nick_lvls/Nick_testlvl
+[2026.04.23-21.04.16:476][962]LogLoad: LoadMap: /Game/Work_Nick/Nick_lvls/Nick_testlvl
+[2026.04.23-21.04.16:476][962]LogWorld: BeginTearingDown for /Game/Johnny-Work/UEDPIE_0_johnnytestlvl
+[2026.04.23-21.04.16:477][962]LogWorld: UWorld::CleanupWorld for johnnytestlvl, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-21.04.16:478][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-21.04.16:568][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-21.04.16:570][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.23-21.04.16:572][962]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-21.04.16:576][962]LogAudio: Display: Audio Device (ID: 15) registered with world 'Nick_testlvl'.
+[2026.04.23-21.04.16:576][962]LogChaosDD: Creating Chaos Debug Draw Scene for world Nick_testlvl
+[2026.04.23-21.04.16:577][962]LogPlayLevel: PIE: World Init took: (0.001899s)
+[2026.04.23-21.04.16:577][962]LogLoad: Game class is 'BP_GameMode_C'
+[2026.04.23-21.04.16:580][962]LogWorld: Bringing World /Game/Work_Nick/Nick_lvls/UEDPIE_0_Nick_testlvl.Nick_testlvl up for play (max tick rate 0) at 2026.04.23-14.04.16
+[2026.04.23-21.04.16:580][962]LogWorld: Bringing up level for play took: 0.002168
+[2026.04.23-21.04.16:585][962]LogLoad: Took 0.108368 seconds to LoadMap(/Game/Work_Nick/Nick_lvls/Nick_testlvl)
+[2026.04.23-21.04.16:585][962]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Work_Nick/Nick_lvls/Nick_testlvl
+[2026.04.23-21.04.16:592][962]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.23-21.04.21:985][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-21.04.21:985][573]LogWorld: BeginTearingDown for /Game/Work_Nick/Nick_lvls/UEDPIE_0_Nick_testlvl
+[2026.04.23-21.04.21:986][573]LogWorld: UWorld::CleanupWorld for Nick_testlvl, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-21.04.21:987][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-21.04.21:991][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-21.04.22:001][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-21.04.22:059][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-21.04.22:059][573]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.23-21.04.22:059][573]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.04.23-21.04.22:062][573]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.04.23-21.04.22:070][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.04.23-21.04.22:172][574]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.04.23-21.04.38:776][467]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-21.04.38:783][467]LogChaosDD: Creating Chaos Debug Draw Scene for world Nick_testlvl
+[2026.04.23-21.05.19:824][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.23-21.05.19:862][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-21.05.19:926][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Christian-work/BP_GameInstance] ([2] browsable assets)...
+[2026.04.23-21.05.19:926][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/Christian-work/BP_GameInstance]
+[2026.04.23-21.05.19:991][414]LogSavePackage: Moving output files for package: /Game/Christian-work/BP_GameInstance
+[2026.04.23-21.05.19:992][414]LogSavePackage: Moving '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Saved/BP_GameInstanceF3985E604E70FF9047045694117F49E2.tmp' to '../../../../../../Users/jmnegrete/Documents/clone/CAGD150_Platformer_Project_Group_6/Platformer_Group6/Content/Christian-work/BP_GameInstance.uasset'
+[2026.04.23-21.05.20:021][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.919 ms (total: 2.87 sec)
+[2026.04.23-21.05.20:095][414]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.23-21.05.20:095][414]LogContentValidation: Enabled validators:
+[2026.04.23-21.05.20:095][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-21.05.20:095][414]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-21.05.20:095][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-21.05.20:095][414]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-21.05.20:095][414]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-21.05.20:095][414]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-21.05.20:096][414]AssetCheck: /Game/Christian-work/BP_GameInstance Validating asset
